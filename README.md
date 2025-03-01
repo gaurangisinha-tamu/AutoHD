@@ -157,6 +157,8 @@ Distributed under the Apache-2.0 License. See `LICENSE` for more information.
 
 - Hongyi Ling - hongyiling@tamu.edu
 
+- Gaurangi Sinha - gaurangisinha@tamu.edu
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
